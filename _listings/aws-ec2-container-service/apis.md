@@ -18,8 +18,8 @@ tags:
 - Deployment
 - Containers
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/definitions/master/_listings/aws-ec2-container-service/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -33,7 +33,7 @@ apis:
   tags: Definitions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/definitions/master/_listings/aws-ec2-container-service/action-registertaskdefinition-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/definitions/master/_listings/aws-ec2-container-service/action-deregistertaskdefinition-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/AmazonECS/latest/APIReference/
