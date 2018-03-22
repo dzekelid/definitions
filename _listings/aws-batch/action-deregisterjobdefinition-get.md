@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeregisterJobDefinition&k=1:
+  /?Action=DeregisterJobDefinition:
     get:
       summary: ' Deregister Job Definition '
       description: Deregisters an AWS Batch job definition
