@@ -12,9 +12,9 @@ tags:
 - Microsoft
 - Links
 - Deployment
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/definitions/master/_listings/azure-resource-manager/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Azure Resource Manager API
@@ -26,7 +26,7 @@ apis:
   tags: Definitions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-policydefinitionname-put.md
 x-common:
 - type: x-website
   url: https://docs.microsoft.com/en-us/rest/api/resources/
