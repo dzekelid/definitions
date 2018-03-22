@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeJobDefinitions&k=1:
+  /?Action=DescribeJobDefinitions:
     get:
       summary: ' Describe Job Definitions '
       description: Describes a list of job definitions
