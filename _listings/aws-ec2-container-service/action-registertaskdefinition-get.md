@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=RegisterTaskDefinition&k=1:
+  /?Action=RegisterTaskDefinition:
     get:
       summary: ' Register Task Definition '
       description: |-
