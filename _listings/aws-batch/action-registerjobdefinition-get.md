@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=RegisterJobDefinition&k=1:
+  /?Action=RegisterJobDefinition:
     get:
       summary: ' Register Job Definition '
       description: Registers an AWS Batch job definition
