@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeregisterTaskDefinition&k=1:
+  /?Action=DeregisterTaskDefinition:
     get:
       summary: ' Deregister Task Definition '
       description: Deregisters the specified task definition by family and revision
