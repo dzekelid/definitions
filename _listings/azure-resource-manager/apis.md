@@ -26,7 +26,7 @@ apis:
   tags: Definitions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-policydefinitionname-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-get.md
 x-common:
 - type: x-website
   url: https://docs.microsoft.com/en-us/rest/api/resources/
