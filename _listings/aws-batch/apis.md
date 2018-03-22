@@ -33,7 +33,7 @@ apis:
   tags: Definitions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/action-describejobdefinitions-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/action-describejobs-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/batch/latest/APIReference/API_Operations.html
