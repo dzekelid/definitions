@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListTaskDefinitions&k=1:
+  /?Action=ListTaskDefinitions:
     get:
       summary: ' List Task Definitions '
       description: Returns a list of task definitions that are registered to your
