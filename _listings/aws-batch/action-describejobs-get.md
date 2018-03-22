@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeJobs&k=1:
+  /?Action=DescribeJobs:
     get:
       summary: ' Describe Jobs '
       description: Describes a list of AWS Batch jobs
