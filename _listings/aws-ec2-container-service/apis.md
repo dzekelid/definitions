@@ -34,15 +34,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-ec2-container-service/action-registertaskdefinition-get.md
-- name: Amazon EC2 Container Service API Deregister Task Definition
-  description: Deregisters the specified task definition by family and revision.
+- name: Amazon EC2 Container Service API Describe Task Definition
+  description: Describes a task definition.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECS.png
   humanURL: https://aws.amazon.com/ecs/
   baseURL: http:://{host}//
   tags: Definitions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-ec2-container-service/action-deregistertaskdefinition-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-ec2-container-service/action-describetaskdefinition-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/AmazonECS/latest/APIReference/
