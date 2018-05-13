@@ -34,15 +34,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/action-registerjobdefinition-get.md
-- name: AWS Batch API Deregister Job Definition
-  description: Deregisters an AWS Batch job definition.
+- name: AWS Batch API Describe Job Definitions
+  description: Describes a list of job definitions.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
   humanURL: https://aws.amazon.com/batch/
   baseURL: http:://{host}//
   tags: Definitions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/action-deregisterjobdefinition-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/action-describejobdefinitions-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/batch/latest/APIReference/API_Operations.html
