@@ -27,15 +27,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-get.md
-- name: Azure Resource Manager API Policy Definitions Create Or Update
-  description: Creates or updates a policy definition.
+- name: Azure Resource Manager API Policy Definitions Delete
+  description: Deletes a policy definition.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-resource-manager.png
   humanURL: https://docs.microsoft.com/en-us/rest/api/resources/
   baseURL: http:://management.azure.com//
   tags: Definitions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-policydefinitionname-put.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-policydefinitionname-delete.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-policydefinitionname-delete-postman.md
 x-common:
 - type: x-website
   url: https://docs.microsoft.com/en-us/rest/api/resources/
