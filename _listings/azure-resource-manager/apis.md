@@ -27,17 +27,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-get.md
-- name: Azure Resource Manager API Policy Definitions Get
-  description: Gets the policy definition.
+- name: Azure Resource Manager API Policy Definitions List
+  description: Gets all the policy definitions for a subscription.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-resource-manager.png
   humanURL: https://docs.microsoft.com/en-us/rest/api/resources/
   baseURL: http:://management.azure.com//
   tags: Definitions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-policydefinitionname-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-policydefinitionname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/azure-resource-manager/subscriptions-subscriptionid-providers-microsoft-authorization-policydefinitions-get-postman.md
 x-common:
 - type: x-website
   url: https://docs.microsoft.com/en-us/rest/api/resources/
