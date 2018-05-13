@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Container Service API
+  title: Amazon EC2 Container Service API Register Task Definition
   version: 1.0.0
+  description: |-
+    Registers a new task definition from the supplied family and
+                    containerDefinitions.
 schemes:
 - http
 produces:
