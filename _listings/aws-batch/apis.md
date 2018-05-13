@@ -34,15 +34,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/action-registerjobdefinition-get.md
-- name: AWS Batch API Describe Job Definitions
-  description: Describes a list of job definitions.
+- name: AWS Batch API Describe Jobs
+  description: Describes a list of AWS Batch jobs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
   humanURL: https://aws.amazon.com/batch/
   baseURL: http:://{host}//
   tags: Definitions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/action-describejobdefinitions-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/action-describejobs-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/batch/latest/APIReference/API_Operations.html
