@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Batch API
+  title: AWS Batch API Describe Jobs
   version: 1.0.0
+  description: Describes a list of AWS Batch jobs.
 schemes:
 - http
 produces:
