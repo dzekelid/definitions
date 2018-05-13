@@ -34,15 +34,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-ec2-container-service/action-registertaskdefinition-get.md
-- name: Amazon EC2 Container Service API List Task Definitions
-  description: Returns a list of task definitions that are registered to your account.
+- name: Amazon EC2 Container Service API Register Task Definition
+  description: |-
+    Registers a new task definition from the supplied family and
+                    containerDefinitions.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECS.png
   humanURL: https://aws.amazon.com/ecs/
   baseURL: http:://{host}//
   tags: Definitions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-ec2-container-service/action-listtaskdefinitions-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-ec2-container-service/action-registertaskdefinition-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/AmazonECS/latest/APIReference/
