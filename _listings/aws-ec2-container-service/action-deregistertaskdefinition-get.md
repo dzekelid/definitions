@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Container Service API
+  title: Amazon EC2 Container Service API Deregister Task Definition
   version: 1.0.0
+  description: Deregisters the specified task definition by family and revision.
 schemes:
 - http
 produces:
