@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Container Service API
+  title: Amazon EC2 Container Service API List Task Definitions
   version: 1.0.0
+  description: Returns a list of task definitions that are registered to your account.
 schemes:
 - http
 produces:
