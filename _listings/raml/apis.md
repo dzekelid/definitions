@@ -1,22 +1,15 @@
 ---
 name: RAML
-description: RESTful API Modeling Language (RAML) is a simple and succinct way of
-  describing practically-RESTful APIs. It encourages reuse, enables discovery and
-  pattern-sharing, and aims for merit-based emergence of best practices. The goal
-  is to help our current API ecosystem by solving immediate problems and then encourage
-  ever-better API patterns. RAML is built on broadly-used standards such as YAML and
-  JSON and is a non-proprietary, vendor-neutral open spec.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/raml-logo.jpg
+x-slug: raml
+description: Design, Build, Test, Document, and Share Your APIs all with an easy to
+  use, human-readable Spec.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1917-raml.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Mulesoft
-- Markdown
-- Definitions
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/definitions/master/_listings/raml/apis.yaml
+x-alexaRank: "446956"
+tags: Definitions
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/raml/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -24,6 +17,10 @@ x-common:
   url: http://open-raml.blogspot.com/
 - type: x-blog-rss
   url: http://open-raml.blogspot.com/feeds/posts/default?alt=rss
+- type: x-email
+  url: info@raml.org
+- type: x-twitter
+  url: https://twitter.com/ramlapi
 - type: x-website
   url: http://raml.org/
 include: []

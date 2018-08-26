@@ -1,5 +1,6 @@
 ---
 name: AWS Batch
+x-slug: aws-batch
 description: AWS Batch enables developers, scientists, and engineers to easily and
   efficiently run hundreds of thousands of batch computing jobs on AWS. AWS Batch
   dynamically provisions the optimal quantity and type of compute resources (e.g.,
@@ -11,49 +12,18 @@ description: AWS Batch enables developers, scientists, and engineers to easily a
   services and features, such as Amazon EC2 and Spot Instances.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
 x-kinRank: "10"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Science
-- Research
-- Jobs
-- Data
-- Amazon Web Services
-created: "2018-03-23"
-modified: "2018-03-23"
-url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/apis.yaml
+x-alexaRank: "0"
+tags: Definitions
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS Batch API
-  description: AWS Batch enables developers, scientists, and engineers to easily and
-    efficiently run hundreds of thousands of batch computing jobs on AWS
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
-  humanURL: ""
-  baseURL: :///
-  tags: Definitions
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/action-registerjobdefinition-get.md
-- name: AWS Batch API Register Job Definition
-  description: Registers an AWS Batch job definition.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
-  humanURL: https://aws.amazon.com/batch/
-  baseURL: http:://{host}//
-  tags: Definitions
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/action-registerjobdefinition-get.md
+apis: []
 x-common:
-- type: x-documentation
-  url: http://docs.aws.amazon.com/batch/latest/APIReference/API_Operations.html
-- type: x-faq
-  url: https://aws.amazon.com/batch/getting-started/
-- type: x-pricing
-  url: https://aws.amazon.com/batch/pricing/
-- type: x-use-cases
-  url: https://aws.amazon.com/batch/use-cases/
-- type: x-website
-  url: https://aws.amazon.com/batch/
+- type: x-api-gallery
+  url: http://aws.auto.scaling.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://aws.batch.stack.network
 - type: x-documentation
   url: http://docs.aws.amazon.com/batch/latest/APIReference/API_Operations.html
 - type: x-faq

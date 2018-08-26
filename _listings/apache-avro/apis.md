@@ -1,5 +1,6 @@
 ---
 name: Apache Avro
+x-slug: apache-avro
 description: Apache Avro is a data serialization system. Avro relies on schemas. When
   Avro data is read, the schema used when writing it is always present. This permits
   each datum to be written with no per-value overheads, making serialization both
@@ -7,13 +8,11 @@ description: Apache Avro is a data serialization system. Avro relies on schemas.
   data, together with its schema, is fully self-describing.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-avro.png
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Definitions
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/definitions/master/_listings/apache-avro/apis.yaml
+x-alexaRank: "0"
+tags: Definitions
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/apache-avro/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:

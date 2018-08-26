@@ -1,19 +1,16 @@
 ---
 name: API Transformer
+x-slug: api-transformer
 description: Transform API Descriptions from/to various formats e.g., Swagger, API
   Blueprint, RAML, WADL, Google Discovery, I/O Docs. Please contact us for production
   and high volume usage.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-transformer-screenshot.png
 x-kinRank: "10"
-x-alexaRank: ""
-tags:
-- Stack Network
-- My API Stack
-- Definitions
-- Conversion
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/definitions/master/_listings/api-transformer/apis.yaml
+x-alexaRank: "0"
+tags: Definitions
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/api-transformer/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:

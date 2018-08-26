@@ -1,5 +1,6 @@
 ---
 name: RESTdesc
+x-slug: restdesc
 description: 'Semantic descriptions for hypermedia APIs. RESTdesc allows you to capture
   the functionality of hypermedia APIs, so automated agents can use them. Despite
   their powerful capabilities, RESTdesc descriptions are easy to master. Description
@@ -7,15 +8,11 @@ description: 'Semantic descriptions for hypermedia APIs. RESTdesc allows you to 
   your API for discovery, based on its functional characteristics.'
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restdesc-logo.png
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Hypermedia
-- Discovery
-- Definitions
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/definitions/master/_listings/restdesc/apis.yaml
+x-alexaRank: "0"
+tags: Definitions
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/restdesc/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
