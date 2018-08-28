@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: OpenRouteService
 x-complete: 1
@@ -38,4 +37,3 @@ paths:
       tags:
       - Ontology
       - Definition
----

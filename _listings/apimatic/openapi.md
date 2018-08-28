@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: APIMATIC
 x-complete: 1
@@ -62,4 +61,3 @@ paths:
       - API Definition
       - Conversion
       - Tranform
----

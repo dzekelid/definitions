@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: APIs.Guru
 x-complete: 1
@@ -53,4 +52,3 @@ paths:
       - APIs
       - Definitions
       - Discovery
----

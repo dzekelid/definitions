@@ -6,11 +6,25 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/882-openro
 x-kinRank: "7"
 x-alexaRank: "6266"
 tags: Definitions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/openrouteservice/apis.md
 specificationVersion: "0.14"
 apis:
+- name: AP Metadata Services - Ontology Definition
+  x-api-slug: cclass-format-get
+  description: Returns the AP ontology definition for the specified AP property or
+    class and the specified format.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/882-openrouteservice.jpg
+  humanURL: http://wiki.openstreetmap.org/wiki/OpenRouteService#ORS_.22API.22
+  baseURL: https://cv.ap.org//
+  tags: Bicycle, Routes, Directions, Technology, SaaS, Routes, Routes, General Data,
+    Relative Data, Service API, Locations, Maps
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/openrouteservice/cclass-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/openrouteservice/cclass-format-get-openapi.md
 - name: AP Metadata Services - Ontology Definition
   x-api-slug: cclass-format-get
   description: Returns the AP ontology definition for the specified AP property or

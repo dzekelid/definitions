@@ -1,0 +1,660 @@
+{
+	"name": "Streadata.io API Gallery - Definitions",
+	"description": "This is a repository of definitions APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/definitions.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://definitions.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Elastic Path",
+			"x-api-slug": "elastic-path",
+			"description": "Find out why the worlds best brands trust Elastic Path. Our API-based ecommerce software solutions are open, modular and flexible. Built for enterprise from the ground up, they are designed as scalable ecommerce solutions, able to take advantage of an...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/188-elastic-path.jpg",
+			"humanURL": "http://www.elasticpath.com",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/elastic-path/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Baltimore Open311",
+			"x-api-slug": "baltimore-open311",
+			"description": "Baltimore 311 helps residents make their neighborhoods more beautiful by reporting local issues including potholes, graffiti, and streetlight outages. Residents can track the status of reports they or other members of the community have submitted",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/baltimore311-logo.png",
+			"humanURL": "http://wiki.open311.org/GeoReport_v2/Servers",
+			"baseURL": "https://311.baltimorecity.gov//open311/v2/",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/baltimore-open311/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OpenRouteService",
+			"x-api-slug": "openrouteservice",
+			"description": "OpenStreetMap is the free wiki world map.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/882-openrouteservice.jpg",
+			"humanURL": "http://wiki.openstreetmap.org/wiki/OpenRouteService#ORS_.22API.22",
+			"baseURL": "https://cv.ap.org//",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/openrouteservice/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RAML",
+			"x-api-slug": "raml",
+			"description": "Design, Build, Test, Document, and Share Your APIs all with an easy to use, human-readable Spec.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1917-raml.jpg",
+			"humanURL": "http://raml.org/",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/raml/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Wordnik",
+			"x-api-slug": "wordnik",
+			"description": "Wordnik is an online English dictionary and language resource that provides dictionary and thesaurus content, some of it based on print dictionaries such as the Century Dictionary, the American Heritage Dictionary, WordNet, and GCIDE. Wordnik has collected a corpus of billions of words which it uses to display example sentences, allowing it to provide information on a much larger set of words than a typical dictionary.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2708-wordnik.jpg",
+			"humanURL": "http://wordnik.com",
+			"baseURL": "https://api.wordnik.com//v4",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/wordnik/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "APIMATIC",
+			"x-api-slug": "apimatic",
+			"description": "A Developer Experience Platform for APIs. Services include: Developer Portal Generation, SDK Generation, Documentation Generation, Code Sample Generation, API Specification Conversion, CI/CD Integrations, Package Publishing",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2939-apimatic.jpg",
+			"humanURL": "http://apimatic.io",
+			"baseURL": "https://apimatic.io//api/transform",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/apimatic/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Postman",
+			"x-api-slug": "postman",
+			"description": "Postman is the only complete API development environment, used by nearly five million developers and more than 100,000 companies worldwide. Postman is an elegant, flexible tool used to build connected software via APIs &mdash; quickly, easily and accurately.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3776-postman.jpg",
+			"humanURL": "https://www.getpostman.com",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/postman/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Alps.io",
+			"x-api-slug": "alps-io",
+			"description": "Announcement account for the Application-Level Proile Semantics (ALPS) specification for Web Service Description.",
+			"image": "",
+			"humanURL": "http://alps.io/",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/alps-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "API Blueprint",
+			"x-api-slug": "api-blueprint",
+			"description": "API Blueprint is a documentation-oriented API description language. A couple of semantic assumptions over the plain Markdown. API Blueprint is perfect for designing your Web API and its comprehensive documentation but also for quick prototyping and collaboration. It is easy to learn and even easier to read &ndash; after all it is just a form of plain text.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiblueprint-logo-2.png",
+			"humanURL": "https://apiblueprint.org/",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/api-blueprint/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Schema.org",
+			"x-api-slug": "schema-org",
+			"description": "Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/schema-org-logo.jpeg",
+			"humanURL": "http://schema.org",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/schema-org/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RESTdesc",
+			"x-api-slug": "restdesc",
+			"description": "Semantic descriptions for hypermedia APIs. RESTdesc allows you to capture the functionality of hypermedia APIs, so automated agents can use them. Despite their powerful capabilities, RESTdesc descriptions are easy to master. Description is not a goal in itself: you want your API to be used. See how RESTdesc opens up your API for discovery, based on its functional characteristics.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restdesc-logo.png",
+			"humanURL": "http://restdesc.org/",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/restdesc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OData.org",
+			"x-api-slug": "odata-org",
+			"description": "OData (Open Data Protocol) is an OASIS standard that defines the best practice for building and consuming RESTful APIs. OData helps you focus on your business logic while building RESTful APIs without having to worry about the approaches to define request and response headers, status codes, HTTP methods, URL conventions, media types, payload formats and query options etc.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/odata-logo.png",
+			"humanURL": "http://www.odata.org/",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/odata-org/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apache Avro",
+			"x-api-slug": "apache-avro",
+			"description": "Apache Avro is a data serialization system. Avro relies on schemas. When Avro data is read, the schema used when writing it is always present. This permits each datum to be written with no per-value overheads, making serialization both fast and small. This also facilitates use with dynamic, scripting languages, since data, together with its schema, is fully self-describing.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-avro.png",
+			"humanURL": "https://avro.apache.org/docs/current/",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/apache-avro/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Open Referral",
+			"x-api-slug": "open-referral",
+			"description": "We develop data standards and open platforms that make it easy to share and find information about community resources. The vision of Open Referral is a world where everyone has access to &mdash; and the ability to effectively use &mdash; information about the resources that are available in their community.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open_referral_logo.png",
+			"humanURL": "https://openreferral.org",
+			"baseURL": "http://api.example.com//api/",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/open-referral/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OpenAPI Spec",
+			"x-api-slug": "openapi-spec",
+			"description": "The Open API Initiative (OAI) was created by a consortium of forward-looking industry experts who recognize the immense value of standardizing on how REST APIs are described. As an open governance structure under the Linux Foundation, the OAI is focused on creating, evolving and promoting a vendor neutral description format. SmartBear Software is donating the Swagger Specification directly to the OAI as the basis of this Open Specification.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oai-logo.png",
+			"humanURL": "https://openapis.org/",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/openapi-spec/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "API Transformer",
+			"x-api-slug": "api-transformer",
+			"description": "Transform API Descriptions from/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I/O Docs. Please contact us for production and high volume usage.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-transformer-screenshot.png",
+			"humanURL": "https://apitransformer.com/",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/api-transformer/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Open Eligibility",
+			"x-api-slug": "open-eligibility",
+			"description": "The Open Eligibility Project is a collaborative for a better human service taxonomy. The taxonomy is a simple way to categorize human services and human situations. With these common categories, we, as service providers, navigators, and people in need, can find human services quickly and easily. This is an API setup and operated by API Evangelist to support the evolution of the specification, and use across many different human services API projects.",
+			"image": "https://s3.amazonaws.com/kinlane-productions/adopta-agency/adopta-agency-primary.png",
+			"humanURL": "https://about.auntbertha.com/openeligibility",
+			"baseURL": "://http://api.open.eligibility.adopta.agency//",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/open-eligibility/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HERE",
+			"x-api-slug": "here",
+			"description": "HERE Technologies enables people, enterprises and cities around the world to harness the power of location and create innovative solutions that make our lives safer and more efficient. We transform information from devices, vehicles, infrastructure and...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20089-here-maps.jpg",
+			"humanURL": "https://developer.here.com",
+			"baseURL": "https://weather.cit.api.here.com//weather/1.0",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/here/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "VMWare",
+			"x-api-slug": "vmware",
+			"description": "At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our software forms a digital foundation that powers the apps, services and experiences that are transforming the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/VMware_logo.png",
+			"humanURL": "http://vmware.com",
+			"baseURL": "https://example.com//suite-api/api",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/vmware/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS EC2 Container Service",
+			"x-api-slug": "aws-ec2-container-service",
+			"description": "Amazon EC2 Container Service (ECS) is a highly scalable, high performance container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances. Amazon ECS eliminates the need for you to install, operate, and scale your own cluster management infrastructure. With simple API calls, you can launch and stop Docker-enabled applications, query the complete state of your cluster, and access many familiar features like security groups, Elastic Load Balancing, EBS volumes, and IAM roles. You can use Amazon ECS to schedule the placement of containers across your cluster based on your resource needs and availability requirements. You can also integrate your own scheduler or third-party schedulers to meet business or application specific requirements.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECS.png",
+			"humanURL": "https://aws.amazon.com/ecs/",
+			"baseURL": ":///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-ec2-container-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Batch",
+			"x-api-slug": "aws-batch",
+			"description": "AWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS. AWS Batch dynamically provisions the optimal quantity and type of compute resources (e.g., CPU or memory optimized instances) based on the volume and specific resource requirements of the batch jobs submitted. With AWS Batch, there is no need to install and manage batch computing software or server clusters that you use to run your jobs, allowing you to focus on analyzing results and solving problems. AWS Batch plans, schedules, and executes your batch computing workloads across the full range of AWS compute services and features, such as Amazon EC2 and Spot Instances.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg",
+			"humanURL": "https://aws.amazon.com/batch/",
+			"baseURL": ":///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Data Pipeline",
+			"x-api-slug": "aws-data-pipeline",
+			"description": "AWS Data Pipeline is a web service that helps you reliably process and move data between different AWS compute and storage services, as well as on-premise data sources, at specified intervals. With AWS Data Pipeline, you can regularly access your data where it&rsquo;s stored, transform and process it at scale, and efficiently transfer the results to AWS services such as Amazon S3, Amazon RDS, Amazon DynamoDB, and Amazon EMR.AWS Data Pipeline helps you easily create complex data processing workloads that are fault tolerant, repeatable, and highly available. You don&rsquo;t have to worry about ensuring resource availability, managing inter-task dependencies, retrying transient failures or timeouts in individual tasks, or creating a failure notification system. AWS Data Pipeline also allows you to move and process data that was previously locked up in on-premise data silos.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AWSDataPipeline.png",
+			"humanURL": "https://aws.amazon.com/datapipeline/",
+			"baseURL": ":///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-data-pipeline/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google API Discovery Service",
+			"x-api-slug": "google-api-discovery-service",
+			"description": "You can use the Google API Discovery Service to build client libraries, IDE plugins, and other tools that interact with Google APIs. It provides a lightweight, JSON-based API that exposes machine-readable metadata about Google APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2017-03-16 at 9.06.47 PM.png",
+			"humanURL": "https://developers.google.com/discovery/",
+			"baseURL": "://www.googleapis.com//discovery/v1",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/google-api-discovery-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Brookline Massachusetts 311",
+			"x-api-slug": "brookline-massachusetts-311",
+			"description": "The 311 website for Brookline Massachusetts.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2017-12-26 at 9.54.50 PM.png",
+			"humanURL": "http://spot.brooklinema.gov/open311",
+			"baseURL": "https://spot.brooklinema.gov//open311/v2/",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/brookline-massachusetts-311/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Chicago Illinois 311",
+			"x-api-slug": "chicago-illinois-311",
+			"description": "Call 311 for assistance with non-emergency City Services and for information on events, programs and agencies within the City of Chicago.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/6A231614-652B-4334-852C-54261F4B13BD",
+			"humanURL": "http://cityofchicago.org/311",
+			"baseURL": "https://311api.cityofchicago.org//open311/v2/",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/chicago-illinois-311/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "San Francisco California 311",
+			"x-api-slug": "san-francisco-california-311",
+			"description": "The 311 service for the City of San Francisco, California.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/vzN3Pt2u_400x400.png",
+			"humanURL": "http://ouc.dc.gov",
+			"baseURL": "https://mobile311.sfgov.org//open311/v2/",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/san-francisco-california-311/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "APIs.Guru",
+			"x-api-slug": "apis-guru",
+			"description": "Our goal is to create a machine-readable Wikipedia for REST APIs with the following principal: Open source, community driven project. Only publicly available APIs (free or paid). Anyone can add or change an API, not only API owners. All data can be accessed through a REST API",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2018-05-21 at 3.08.45 PM.png",
+			"humanURL": "http://apis.guru",
+			"baseURL": "https://api.apis.guru//v2/",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/apis-guru/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Oxford Dictionaries",
+			"x-api-slug": "oxford-dictionaries",
+			"description": "If you&rsquo;re looking to enhance your app or website with dictionary data, don&rsquo;t compromise on quality. The Oxford Dictionaries API offers easy and intuitive access to Oxfords dictionary content, which is trusted around the world. Here at Oxford Dictionaries, home of the OED, we love words. That&rsquo;s why we have experienced lexicographers tracking the living language, delving deep into our corpora and monitoring a wide range of media in order to understand how words are being used and how language is evolving. This research is used by our editors to write and edit dictionary entries and translations, meaning we&rsquo;re able to offer up-to-date, accurate, and reliable lexical content in multiple languages.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oxford-dictionaries-api.png",
+			"humanURL": "https://developer.oxforddictionaries.com/",
+			"baseURL": "https://od-api-demo.oxforddictionaries.com:443//api/v1",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/oxford-dictionaries/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PayRun",
+			"x-api-slug": "payrun",
+			"description": "An open, scalable, transparent and HMRC accredited payroll API. Put the power of payroll into your application today.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28484-payrun-io.jpg",
+			"humanURL": "http://www.payrun.io",
+			"baseURL": "https://api.test.payrun.io//",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/payrun/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Twine",
+			"x-api-slug": "twine",
+			"description": "Twine Health is a cloud-based collaborative care platform for chronic disease management. It consists of a patient engagement portal, a peer support network, a care management solution, and an outcome analytics tool. The platform enables users to co-create personalized care plans that serve as common ground for collaboration with their care team: their own providers such as physicians and nurse practitioners; their family and friends; and coaches such as nurses, pharmacists, health coaches, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twinehealth.png",
+			"humanURL": "http://twinehealth.com",
+			"baseURL": "https://api.twinehealth.com//pub",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/twine/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Backupify",
+			"x-api-slug": "backupify",
+			"description": "",
+			"image": "",
+			"humanURL": "http://backupify.com",
+			"baseURL": "https://api.backupify.com//",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/backupify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Predix",
+			"x-api-slug": "predix",
+			"description": "Predix (IoT PaaS) helps you develop apps that connect people with industrial machines through analytics and data for better business outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png",
+			"humanURL": "https://www.predix.io",
+			"baseURL": "https:////v1",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/predix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RIXML",
+			"x-api-slug": "rixml",
+			"description": "The RIXML Standards Suite is made up of the following XML standards: RIXML Research Standard, Interactions Standard, RIXML Analyst Roster Standard, and RIXML Coverage Standard. These standards were created by a consortium of buy-side, sell-side, and vendor firms, and are modified as needed to address changes in the marketplace and to incorporate feedback from its member firms stemming from implementation projects and substantial exposure to real instance documents produced industry-wide. Using the RIXML standard enables firms to improve the process of categorizing, aggregating, comparing, sorting, searching, and distributing global financial research, and of accurately describing interactions to facilitate compliance with MiFID II.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rixml.png",
+			"humanURL": "http://www.rixml.org",
+			"baseURL": "https:///",
+			"tags": "Definitions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/rixml/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Definitions",
+	"include": [
+		{
+			"name": "Elastic Path",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/elastic-path/apis.yaml"
+		},
+		{
+			"name": "Baltimore Open311",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/baltimore-open311/apis.yaml"
+		},
+		{
+			"name": "OpenRouteService",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/openrouteservice/apis.yaml"
+		},
+		{
+			"name": "RAML",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/raml/apis.yaml"
+		},
+		{
+			"name": "Wordnik",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/wordnik/apis.yaml"
+		},
+		{
+			"name": "APIMATIC",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/apimatic/apis.yaml"
+		},
+		{
+			"name": "Postman",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/postman/apis.yaml"
+		},
+		{
+			"name": "Alps.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/alps-io/apis.yaml"
+		},
+		{
+			"name": "API Blueprint",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/api-blueprint/apis.yaml"
+		},
+		{
+			"name": "Schema.org",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/schema-org/apis.yaml"
+		},
+		{
+			"name": "RESTdesc",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/restdesc/apis.yaml"
+		},
+		{
+			"name": "OData.org",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/odata-org/apis.yaml"
+		},
+		{
+			"name": "Apache Avro",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/apache-avro/apis.yaml"
+		},
+		{
+			"name": "Open Referral",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/open-referral/apis.yaml"
+		},
+		{
+			"name": "OpenAPI Spec",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/openapi-spec/apis.yaml"
+		},
+		{
+			"name": "API Transformer",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/api-transformer/apis.yaml"
+		},
+		{
+			"name": "Open Eligibility",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/open-eligibility/apis.yaml"
+		},
+		{
+			"name": "HERE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/here/apis.yaml"
+		},
+		{
+			"name": "VMWare",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/vmware/apis.yaml"
+		},
+		{
+			"name": "AWS EC2 Container Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-ec2-container-service/apis.yaml"
+		},
+		{
+			"name": "AWS Batch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-batch/apis.yaml"
+		},
+		{
+			"name": "AWS Data Pipeline",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/aws-data-pipeline/apis.yaml"
+		},
+		{
+			"name": "Google API Discovery Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/google-api-discovery-service/apis.yaml"
+		},
+		{
+			"name": "Brookline Massachusetts 311",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/brookline-massachusetts-311/apis.yaml"
+		},
+		{
+			"name": "Chicago Illinois 311",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/chicago-illinois-311/apis.yaml"
+		},
+		{
+			"name": "San Francisco California 311",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/san-francisco-california-311/apis.yaml"
+		},
+		{
+			"name": "APIs.Guru",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/apis-guru/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Oxford Dictionaries",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/oxford-dictionaries/apis.yaml"
+		},
+		{
+			"name": "PayRun",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/payrun/apis.yaml"
+		},
+		{
+			"name": "Twine",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/twine/apis.yaml"
+		},
+		{
+			"name": "Backupify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/backupify/apis.yaml"
+		},
+		{
+			"name": "Predix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/predix/apis.yaml"
+		},
+		{
+			"name": "RIXML",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/rixml/apis.yaml"
+		}
+	]
+}

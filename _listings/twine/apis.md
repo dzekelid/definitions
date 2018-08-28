@@ -12,11 +12,51 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Definitions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/twine/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Twine - List health question definitions
+  x-api-slug: health-question-definition-get
+  description: Get a list of all health question definitions
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twinehealth.png
+  humanURL: http://twinehealth.com
+  baseURL: https://api.twinehealth.com//pub
+  tags: Wearables, Healthcare, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/twine/health-question-definition-get-openapi.md
+- name: Twine - Get a health question definition
+  x-api-slug: health-question-definitionid-get
+  description: Get a health question definition by id
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twinehealth.png
+  humanURL: http://twinehealth.com
+  baseURL: https://api.twinehealth.com//pub
+  tags: Wearables, Healthcare, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/twine/health-question-definitionid-get-openapi.md
+- name: Twine - Get a health question definition
+  x-api-slug: health-question-definitionid-get
+  description: Get a health question definition by id
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twinehealth.png
+  humanURL: http://twinehealth.com
+  baseURL: https://api.twinehealth.com//pub
+  tags: Wearables, Healthcare, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/twine/health-question-definitionid-get-openapi.md
+- name: Twine - Get a health question definition
+  x-api-slug: health-question-definitionid-get
+  description: Get a health question definition by id
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twinehealth.png
+  humanURL: http://twinehealth.com
+  baseURL: https://api.twinehealth.com//pub
+  tags: Wearables, Healthcare, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/twine/health-question-definitionid-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://twilio.api.gallery.streamdata.io

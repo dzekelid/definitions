@@ -11,11 +11,21 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2708-wordn
 x-kinRank: "8"
 x-alexaRank: "46540"
 tags: Definitions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/wordnik/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Wordnik - Return definitions for a word
+  x-api-slug: word-jsonworddefinitions-get
+  description: Return definitions for a word.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2708-wordnik.jpg
+  humanURL: http://wordnik.com
+  baseURL: https://api.wordnik.com//v4
+  tags: Content, Dictionary, internet, Technology, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/definitions/master/_listings/wordnik/word-jsonworddefinitions-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://wikipedia.api.gallery.streamdata.io
